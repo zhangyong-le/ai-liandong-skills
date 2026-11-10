@@ -16,6 +16,7 @@
 | Skill | 用途 | 状态 |
 |---|---|---|
 | [dispatch-and-verify](skills/dispatch-and-verify/SKILL.md) | 多成员派单与验收闭环，含假成功防护 | draft |
+| [windows-uia-dispatch](skills/windows-uia-dispatch/SKILL.md) | Windows UIA 桌面 AI 应用自动化：composer 竞态、按钮重查、产物回收 | draft |
 
 ## SKILL.md 约定
 
